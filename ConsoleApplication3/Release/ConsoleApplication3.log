@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  ConsoleApplication3.cpp
+ConsoleApplication3.cpp(321): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  All 265 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication3.vcxproj -> C:\Users\Jet100\source\repos\ConsoleApplication3\Release\ConsoleApplication3.exe
